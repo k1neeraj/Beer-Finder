@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: goldenrod;
+    padding: 20px;
+    color: white;
+  }
+  
+  .beer-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .beer-card {
+    border: 1px solid grey;
+    padding: 10px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 50%;
+    height: 50%;
+  }
+  
